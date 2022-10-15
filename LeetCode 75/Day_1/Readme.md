@@ -14,3 +14,10 @@ a variable named `sum` was used to store the value of current index  `[i]` and n
 Then the sum of the value of those indexes are stored in the current index.
 The loop ran through the size of array. After exiting the loop, the array was returned 
 
+
+
+# Learning Outcome
+
+learned the use of `size()` function.
+it returns the size of the list container or the number of elements in the list container
+
